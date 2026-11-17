@@ -34,7 +34,7 @@ python3 -m http.server 4173
 预计站点地址：
 
 ```text
-https://hhcnmtkrt8-lab.github.io/hx-ohm/
+https://hhcnmtkrt8-lab.github.io/huaxing-resistor/
 ```
 
 ## 上线前需要确认

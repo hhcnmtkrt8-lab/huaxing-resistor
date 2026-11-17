@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hhcnmtkrt8-lab.github.io/hx-ohm/sitemap.xml
+Sitemap: https://hhcnmtkrt8-lab.github.io/huaxing-resistor/sitemap.xml
