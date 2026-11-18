@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/</loc><priority>1.0</priority></url>
+  <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/?lang=es-mx</loc><priority>0.9</priority></url>
+  <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/?lang=vi</loc><priority>0.9</priority></url>
+  <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/?lang=pt-br</loc><priority>0.9</priority></url>
+  <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/?lang=es-ar</loc><priority>0.9</priority></url>
+  <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/?lang=fr</loc><priority>0.9</priority></url>
+  <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/zh.html</loc><priority>0.9</priority></url>
   <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/products.html</loc><priority>0.9</priority></url>
   <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/quality.html</loc><priority>0.8</priority></url>
   <url><loc>https://hhcnmtkrt8-lab.github.io/huaxing-resistor/about.html</loc><priority>0.7</priority></url>
